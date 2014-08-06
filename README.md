@@ -1,4 +1,4 @@
 website
 =======
 
-The http://openpayments.foundation/ website
+The http://openpayments.foundation/ website.
